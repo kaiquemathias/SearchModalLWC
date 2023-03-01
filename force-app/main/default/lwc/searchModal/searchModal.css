@@ -1,0 +1,9 @@
+.modal-container{
+    width: 90% !important;
+    max-width: none !important;
+    min-width: 40rem !important;
+}
+
+.table-container {
+    overflow-x: auto;
+}
